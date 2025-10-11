@@ -91,21 +91,24 @@ Built using:
 - **Dataset:** Academic PDFs (Deep Learning, Computer Vision, Blockchain, Linear Programming)
 
 ---
-
 ## 🧩 Repository Structure
 
+```
 ATHENA/
 │
 ├── data/
-│ ├── blockchain_chunks.csv
-│ ├── computer_vision_chunks.csv
-│ ├── deepLearning_chunks.csv
-│ └── pl_chunks.csv
+│   ├── blockchain_chunks.csv
+│   ├── computer_vision_chunks.csv
+│   ├── deepLearning_chunks.csv
+│   └── pl_chunks.csv
 │
 ├── notebooks/
-│ └── DataProcessingProjectAthena.ipynb
+│   └── DataProcessingProjectAthena.ipynb
+
+```
 
 
+---
 ## 📫 Contact
 For collaboration or inquiries:  
 **Aya Mekni**  
