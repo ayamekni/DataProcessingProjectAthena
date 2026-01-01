@@ -1,4 +1,7 @@
-# 🚀 ATHENA – AI-Powered Knowledge Management Platform
+# Final Athena project: 🎓 ATHENA – AI-Powered Educational Platform
+link for github repo: [https://github.com/ayamekni/athena-ai-education-assistant]
+
+# ATHENA – AI-Powered Knowledge Management Platform
 
 ATHENA is an intelligent platform designed to transform academic course materials (PDFs) into a **structured, searchable, and AI-augmented knowledge base**.  
 It combines data processing, NLP, and embedding models to power a **semantic chatbot** capable of answering questions directly from course content.
